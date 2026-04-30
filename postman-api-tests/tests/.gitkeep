@@ -1,0 +1,3 @@
+# ไฟล์ที่ generate แล้วจะถูกเก็บในโฟลเดอร์นี้
+# You can commit specific generated spec files if needed
+*.generated.ts

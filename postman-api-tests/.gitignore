@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment files (อย่า commit ข้อมูล sensitive!)
+.env
+.env.local
+.env.*.local
+
+# TypeScript build output
+dist/
+
+# Generated test files (optional: ลบบรรทัดนี้ถ้าต้องการ commit generated tests)
+tests/generated.*.spec.ts
+
+# Postman collection (อาจมี token/secret อยู่)
+postman/collection.json
+
+# OS
+.DS_Store
+Thumbs.db
